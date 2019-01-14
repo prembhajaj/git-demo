@@ -4,5 +4,4 @@ This is the first file in our repository.
 
 ## Part 1
 
-This is the first subheading
-This is the second sub.
+index.html
