@@ -2,7 +2,7 @@
 
 This is the first file in our repository.
 
-## Part 1
+## Part 2
 Introduction:
 
 index.html
